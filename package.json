@@ -1,0 +1,20 @@
+{
+  "name": "NodeTogetherBos",
+  "version": "1.0.0",
+  "description": "Node Together Workshop Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MerlinCalo/NodeTogetherBos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MerlinCalo/NodeTogetherBos/issues"
+  },
+  "homepage": "https://github.com/MerlinCalo/NodeTogetherBos#readme"
+}
